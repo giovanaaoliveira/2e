@@ -1,0 +1,20 @@
+.cabecalho
+{
+    background-color: deeppink
+}
+.imagem{
+    width: 20px;
+}
+p {
+    font-size: 18px;
+}
+.paragrafo1 {
+    font-size: 30px;
+}
+.paragrafos {
+    font-size: 16px;
+}
+.lista {
+    display: inline-block;
+    margin: 0 16px;
+}

@@ -1,12 +1,13 @@
+
 .cabecalho
 {
-    background-color: deeppink
+    background-color: rgb(202, 76, 143)
 }
 h1{
     text-align-last: center;
 }
 h2 {
-    background-color: coral;
+    background-color: lightpink;
 }
 .imagem{
     width: 20px;
@@ -24,4 +25,7 @@ p {
 .lista {
     display: inline-block;
     margin: 0 16px;
+}
+footer{
+    background-color: rgb(153, 83, 153);
 }
